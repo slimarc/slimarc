@@ -1,6 +1,6 @@
 ### <Chegue mais!/>👋
 
-- 🔭 Sou estudante universitário da Universidade Federal da Bahia e tô caçando um estágio haha.
+- 🔭 Sou estudante universitário da Universidade Federal da Bahia e sigo procurando uma oportunidade de crescer, evoluir e aprender em um estágio 🚀
 - 🌱 Sigo estudando desenvolvimento front-end.
 
 <div align="center">

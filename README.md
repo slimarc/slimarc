@@ -1,7 +1,7 @@
 ### <Chegue mais!/>👋
 
-- 🔭 Sou estudante universitário da Universidade Federal da Bahia e sigo procurando uma oportunidade de crescer, evoluir e aprender em um estágio 🚀
-- 🌱 Sigo estudando desenvolvimento front e back-end. 
+- 🔭 Sou estudante do Bacharelado interdisciplinar em ciência, tecologia e inovação na Universidade Federal da Bahia e sigo procurando uma oportunidade de crescer, evoluir e aprender em um estágio 🚀
+- 🌱 Sigo estudando desenvolvimento web e mobile. 
 
 <div align="center">
   <a href="https://github.com/slimarc">

@@ -1,7 +1,8 @@
 ### <Chegue mais!/>👋
 
-- 🔭 Sou estudante do Bacharelado interdisciplinar em ciência, tecologia e inovação na Universidade Federal da Bahia e sigo procurando uma oportunidade de crescer, evoluir e aprender em um estágio 🚀
-- 🌱 Sigo estudando desenvolvimento web e mobile. 
+- 🔭 Sou estudante do Bacharelado interdisciplinar em ciência, tecologia e inovação na Universidade Federal da Bahia.
+- 🌱 Sigo estudando desenvolvimento web e mobile.
+- :computer: Atualmente estou estagiando, desenvolvendo soluções front e backend com django e typescript. 
 
 <div align="center">
   <a href="https://github.com/slimarc">

@@ -1,7 +1,7 @@
 ### <Chegue mais!/>👋
 
-- 🔭 Sou estudante do Bacharelado interdisciplinar em ciência, tecologia e inovação na Universidade Federal da Bahia.
-- 🌱 Sigo estudando desenvolvimento web.
+- 🔭 Sou estudante na Universidade Federal da Bahia.
+- 🌱 Sigo estudando desenvolvimento de software/web.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
